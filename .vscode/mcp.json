@@ -1,0 +1,12 @@
+{
+	"servers": {
+		"weather-mcp": {
+			"type": "stdio",
+			"command": "/home/anirudh/repos/mcp-poc/weather-mcp/.venv/bin/python",
+			"args": [
+				"/home/anirudh/repos/mcp-poc/weather-mcp/server.py"
+			]
+		}
+	},
+	"inputs": []
+}
